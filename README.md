@@ -12,19 +12,19 @@ Dockerise-Web-App/
 ├── css/
 │   └── style.css
 ├── images/
-│   └── Power 48 laws.png
-│   └── eat-that-frog.jpeg
-│   └── man search.jpeg
-│   └── subtle art.jpeg           
-│   └── alchemist.jpg
-│   └── how to win.jpeg
-│   └── power of subconscious mind.jpeg
-│   └── the-kite-runner.jpg
-│   └── atomic-habits.jpeg
-│   └── ikigai.jpeg
-│   └── rich-dad-poor-dad.jpeg
-│   └── think and grow rich.jpeg
-│   └── banner-bg.jpg
+│   ├── Power 48 laws.png
+│   ├── eat-that-frog.jpeg
+│   ├── man search.jpeg
+│   ├── subtle art.jpeg           
+│   ├── alchemist.jpg
+│   ├── how to win.jpeg
+│   ├── power of subconscious mind.jpeg
+│   ├── the-kite-runner.jpg
+│   ├── atomic-habits.jpeg
+│   ├── ikigai.jpeg
+│   ├── rich-dad-poor-dad.jpeg
+│   ├── think and grow rich.jpeg
+│   ├── banner-bg.jpg
 │   └── sapiens.jpeg
 ├── js/
 │   ├── script.js

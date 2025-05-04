@@ -23,19 +23,19 @@ Dockerise-Web-App/
 
 ## 🚀 Run Locally with Docker
 
-**Step 2: Go to Dockerise-Web-App folder**
+**Step 1: Go to Dockerise-Web-App folder**
 
 ```
 cd path/toDockerise-Web-App
 ```
 
-**Step 1: Build the Docker image**
+**Step 2: Build the Docker image**
 
 ```
 docker build -t virtual-library.
 ```
 
-**Step 2: Run the Docker container**
+**Step 3: Run the Docker container**
 
 ```
 docker run -d -p 8080:80 virtual-library

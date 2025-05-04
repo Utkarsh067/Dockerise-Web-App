@@ -50,7 +50,7 @@ cd Dockerise-Web-App
 **Step 2: Build the Docker image**
 
 ```
-docker build -t virtual-library.
+docker build -t virtual-library .
 ```
 
 **Step 3: Run the Docker container**

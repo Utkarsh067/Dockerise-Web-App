@@ -43,8 +43,8 @@ The ebooks data is loaded dynamically from an S3 bucket.
 **Step 1: Clone the Repository**
 
 ```
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Utkarsh067/Dockerise-Web-App.git
+cd Dockerise-Web-App
 ```
 
 **Step 2: Build the Docker image**

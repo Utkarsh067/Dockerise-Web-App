@@ -34,7 +34,7 @@ Dockerise-Web-App/
 └── index.html
 ```
 
-The ebooks data is loaded dynamically from an S3 bucket.
+The ebooks data is loaded dynamically from an AWS S3 bucket.
 
 ---
 

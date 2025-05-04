@@ -11,12 +11,27 @@ It is designed to be lightweight, fully responsive, and easily deployable using 
 Dockerise-Web-App/
 ├── css/
 │   └── style.css
+├── images/
+│   └── Power 48 laws.png
+│   └── eat-that-frog.jpeg
+│   └── man search.jpeg
+│   └── subtle art.jpeg           
+│   └── alchemist.jpg
+│   └── how to win.jpeg
+│   └── power of subconscious mind.jpeg
+│   └── the-kite-runner.jpg
+│   └── atomic-habits.jpeg
+│   └── ikigai.jpeg
+│   └── rich-dad-poor-dad.jpeg
+│   └── think and grow rich.jpeg
+│   └── banner-bg.jpg
+│   └── sapiens.jpeg
 ├── js/
 │   ├── script.js
 │   └── ebooks.js
-├── index.html
-├── Dockerfile
-└── README.md
+├── README.md
+├── dockerfile
+└── index.html
 ```
 
 ---
@@ -26,7 +41,7 @@ Dockerise-Web-App/
 **Step 1: Go to Dockerise-Web-App folder**
 
 ```
-cd path/toDockerise-Web-App
+cd path/to/Dockerise-Web-App
 ```
 
 **Step 2: Build the Docker image**

@@ -34,14 +34,17 @@ Dockerise-Web-App/
 └── index.html
 ```
 
+The ebooks data is loaded dynamically from an S3 bucket.
+
 ---
 
 ## 🚀 Run Locally with Docker
 
-**Step 1: Go to Dockerise-Web-App folder**
+**Step 1: Clone the Repository**
 
 ```
-cd path/to/Dockerise-Web-App
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
 ```
 
 **Step 2: Build the Docker image**
